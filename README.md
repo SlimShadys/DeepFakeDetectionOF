@@ -6,10 +6,12 @@ In order to run the notebook locally, make sure to meet the following library re
 - tqdm
 - gdown
 - cv2
+- timm
+- transformers
 - torch
 
 You can install them through:
 ```
-pip install -U tqdm gdown opencv-python
+pip install -U tqdm gdown opencv-python timm transformers
 ```
 Refer to the [PyTorch website](https://pytorch.org/get-started/locally/) for local installation of PyTorch.
